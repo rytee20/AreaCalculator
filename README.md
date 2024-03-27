@@ -39,4 +39,5 @@ Triangle is not rectangular
 
 ## Тесты
 Выполняются успешно.
+
 ![image](https://github.com/rytee20/AreaCalculator/assets/94058290/f920267f-83ad-46d3-b4f4-75236c4b90fd)
