@@ -9,8 +9,7 @@ class AreaCalculator:
 class Circle(AreaCalculator):
     def __init__(self, rad):
         self.rad = rad
-    def setRad(self, rad):
-        self.rad = rad
+        
     def area_calculation(self):
         return pi * self.rad**2
 
