@@ -1,7 +1,7 @@
 from unittest import TestCase
 from math import pi
 from unittest.mock import patch
-from main import Circle, Triangle
+from AreaCalculator import Circle, Triangle
 
 class TestAreaCalculator(TestCase):
     def testCircleAreaCalculate(self):
